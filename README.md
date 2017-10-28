@@ -1,2 +1,3 @@
 # hello-world
 GitHub Intro
+Learning to code. Learning to GitHub. This part is pretty meta...
